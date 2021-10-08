@@ -1,4 +1,4 @@
 fields{ 
 test = "testing"
-docker_branch = test
+  docker_branch = "${config.test}"
 }
