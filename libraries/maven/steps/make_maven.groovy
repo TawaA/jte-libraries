@@ -5,7 +5,6 @@ void call(){
 
     echo"Printing Job branch ${pipelineConfig.jobBranch}"
     echo"Printing short commit ${pipelineConfig.shortCommit}"
-    echo"Printing new docker branch ${config.docker_branch}"
 
 
     //println "maven: build()"
