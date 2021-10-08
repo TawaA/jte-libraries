@@ -1,5 +1,5 @@
 fields{ 
    optional{
-   docker_branch2 = "testing"
+   docker_branch2 = ["testing"]
    }
 }
