@@ -1,6 +1,6 @@
 fields{ 
   required{
- test = "testing"
-  docker_branch = "${config.test}"
+   test = "testing"
+    docker_branch = "${test}"
   }
 }
