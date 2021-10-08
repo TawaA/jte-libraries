@@ -4,7 +4,6 @@ void call(){
     echo"This is short commit ${pipelineConfig.shortCommit}"
     
     echo"Printing date config  ${config.newertDate}"
-    echo"Printing date var  ${newestDate}"
 
     //make()
 }
