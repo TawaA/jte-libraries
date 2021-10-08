@@ -5,7 +5,6 @@ void call(){
     
     config.test = "testing test"
     echo"Printing test  ${config.test}"
-    echo"Printing new docker branch ${config.docker_branch2}"
 
     //make()
 }
