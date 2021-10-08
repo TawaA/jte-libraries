@@ -1,6 +1,6 @@
 fields{ 
   optional{
    test = "testing"
-    docker_branch2 = "${test}"
+    docker_branch2 = "${config.test}"
   }
 }
