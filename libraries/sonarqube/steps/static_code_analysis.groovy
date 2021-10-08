@@ -4,7 +4,7 @@ void call(){
     echo"This is short commit ${pipelineConfig.shortCommit}"
     
     config.docker_branch = pipelineConfig.jobBranch
-    echo"Printing new docker branch ${config.docker_branch}"
+    echo"Printing new docker branch ${config.docker_branch2}"
 
     //make()
 }
