@@ -1,3 +1,4 @@
-fields{     
-docker_branch = "test"
+fields{ 
+test = "testing"
+docker_branch = test
 }
